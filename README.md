@@ -1,7 +1,7 @@
 SpotifyApi
 ==========
 
-Playing around with the Spotify Metadata APIs - Search and Lookup
+Playing around with the Spotify Metadata APIs - Search and Lookup.
 
 ### Links
 
